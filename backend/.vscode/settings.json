@@ -1,0 +1,5 @@
+{
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.pythonPath": "/home/dev06/.local/share/virtualenvs/backend-H9blLS3H/bin/python"
+}
